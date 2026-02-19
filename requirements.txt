@@ -1,0 +1,22 @@
+# Core data + market data
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+
+# Optional: enhanced data sources
+# alpha-vantage>=2.3.1   # API key required
+# polygon-api-client>=1.12.0  # API key required
+
+# Development / testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
+
+# Linting / formatting
+black>=24.0.0
+isort>=5.13.0
+
+# Optional: notebook / reporting
+# jupyter>=1.0.0
+# matplotlib>=3.8.0
+# tabulate>=0.9.0
